@@ -1,0 +1,207 @@
+/* ==========================================================================
+   1. GLOBAL PAGE & TEXT CONFIGURATION (KIDRISHA: CHANDRA THEME)
+   ========================================================================== */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #090d16; /* Deep lunar night background */
+    color: #e2e8f0 !important; /* Soft moonlight white/slate text */
+    line-height: 1.7;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* ==========================================================================
+   2. CELESTIAL & LUNAR HEADINGS (H1 - H6)
+   ========================================================================== */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    margin-top: 1.6em;
+    margin-bottom: 0.6em;
+    letter-spacing: 0.02em;
+}
+
+h1 { 
+    color: #f8fafc !important; /* Pure Lunar White */
+    font-size: 2.1em;
+    border-bottom: 2px solid #38bdf8; /* Celestial Cyan-Blue */
+    padding-bottom: 10px;
+    margin-top: 0;
+    text-shadow: 0 0 20px rgba(56, 189, 248, 0.25);
+} 
+
+h2 { 
+    color: #38bdf8 !important; /* Bright Sky/Lunar Cyan */
+    font-size: 1.55em;
+    border-bottom: 1px solid #1e3a8a; 
+    padding-bottom: 6px;
+} 
+
+h3 { 
+    color: #818cf8 !important; /* Astral Indigo */
+    font-size: 1.25em; 
+}
+
+h4 { 
+    color: #fcd34d !important; /* Solar/Starlight Gold (for sub-categories like Person/Gender) */
+    font-size: 1.1em; 
+}
+
+h5 { color: #93c5fd !important; font-size: 1em; }
+h6 { color: #64748b !important; font-size: 0.9em; text-transform: uppercase; letter-spacing: 0.05em; }
+
+/* ==========================================================================
+   3. INLINE TEXT ACCENTS & GRAMMAR HIGHLIGHTS
+   ========================================================================== */
+/* Bold Text - Used for grammatical terms, cases, and key roots */
+strong {
+    color: #7dd3fc !important; /* Luminous Ice Blue */
+    font-weight: 700;
+}
+
+/* Italic Text - Used for linguistic glosses, translations, and examples */
+em {
+    color: #c4b5fd !important; /* Soft Nebula Lavender */
+    font-style: italic;
+}
+
+/* Horizontal Rule Divider (---) */
+hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, #38bdf8, #818cf8, transparent);
+    margin: 28px 0;
+}
+
+/* ==========================================================================
+   4. PHONOLOGY, SCRIPT & SYNTAX FORMULA ENVIRONMENT
+   ========================================================================== */
+/* Code Blocks (pre) - Ideal for sentence order formulas & script breakdowns */
+pre {
+    background-color: #0f172a !important; /* Deep Midnight Slate */
+    border: 1px solid #1e3a8a !important;
+    border-left: 4px solid #818cf8 !important; /* Astral Indigo accent bar */
+    border-radius: 8px;
+    padding: 16px !important;
+    margin: 16px 0 !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+    overflow-x: auto;
+}
+
+/* Raw formula / IPA / script fonts */
+pre code {
+    font-family: 'JetBrains Mono', 'Fira Code', 'Noto Sans Devanagari', monospace !important;
+    color: #e2e8f0 !important;
+    font-weight: 500 !important;
+}
+
+/* Inline Code - Used for IPA symbols, suffixes (-iṣ, -amśa), and prefixes (Pu-, Stri-) */
+code:not(pre code) {
+    color: #fde68a !important; /* Warm Starlight Gold for morphemes/IPA */
+    background-color: #1e293b !important;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+    font-size: 0.9em;
+    border: 1px solid #334155;
+}
+
+/* ==========================================================================
+   5. LINGUISTIC PARADIGM & DECLENSION TABLES
+   ========================================================================== */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px 0 28px 0;
+    font-size: 0.92em;
+    border-radius: 8px;
+    overflow: hidden;
+    border: 1px solid #1e3a8a;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+/* Header Row */
+table th {
+    background-color: #172554 !important; /* Deep Cosmic Navy */
+    color: #7dd3fc !important; /* Lunar Cyan Header Text */
+    text-align: left;
+    font-weight: 600;
+    padding: 10px 14px;
+    border-bottom: 2px solid #38bdf8;
+    border-right: 1px solid rgba(56, 189, 248, 0.15);
+}
+
+/* First Column (Case names, Vowel types, Manner of articulation) */
+table td:first-child {
+    font-weight: 600;
+    color: #bae6fd;
+    background-color: rgba(15, 23, 42, 0.6);
+    border-right: 1px solid #1e3a8a;
+}
+
+/* Data Cells - Designed for dense grammatical matrices & empty fill-in cells */
+table td {
+    padding: 9px 14px;
+    border-bottom: 1px solid #1e293b;
+    border-right: 1px solid rgba(51, 65, 85, 0.4);
+    color: #e2e8f0;
+    min-width: 75px; /* Ensures empty declension/conjugation cells stay well-proportioned */
+    height: 22px;
+}
+
+/* Alternating Zebra Striping */
+table tr:nth-of-type(even) {
+    background-color: rgba(30, 41, 59, 0.35); 
+}
+
+/* Row hover highlight effect */
+table tr:hover {
+    background-color: rgba(56, 189, 248, 0.12);
+}
+
+/* ==========================================================================
+   6. CLEAN GRAMMAR & VOCABULARY LISTS
+   ========================================================================== */
+ul {
+    list-style-type: disc;
+}
+
+ol, ul {
+    padding-left: 24px;
+    margin: 14px 0;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+/* Custom list markers styling */
+li::marker {
+    color: #38bdf8 !important; /* Lunar Cyan list bullets/numbers */
+}
+
+/* ==========================================================================
+   7. LINGUISTIC EXAMPLES & RULE CALLOUTS (BLOCKQUOTES)
+   ========================================================================== */
+blockquote {
+    margin: 20px 0;
+    padding: 12px 20px;
+    background-color: rgba(23, 37, 84, 0.35); /* Deep cosmic blue wash */
+    border-left: 4px solid #fcd34d; /* Starlight Gold strip for examples & notes */
+    color: #cbd5e1;
+    font-style: normal;
+    border-radius: 0 8px 8px 0;
+}
+
+blockquote strong {
+    color: #fde68a !important;
+}
+
+/* ==========================================================================
+   8. OPTIONAL PHONOLOGY COLOR TAGS (FOR HTML SPAN USE IN VOWELS/SEMI-VOWELS)
+   ========================================================================== */
+.tag-red { color: #f87171 !important; font-weight: 600; }        /* Long / Nasals */
+.tag-blue { color: #60a5fa !important; font-weight: 600; }       /* Short / Actual Semi-vowels */
+.tag-lightblue { color: #7dd3fc !important; font-weight: 600; }  /* Trill */
+.tag-green { color: #4ade80 !important; font-weight: 600; }      /* Diphthongs / Fricative */
+.tag-yellow { color: #facc15 !important; font-weight: 600; }     /* Nasalizer */

@@ -1,0 +1,75 @@
+9. Dictionary Format
+
+Write every word in this format:
+
+Word:
+Pronunciation:
+Part of Speech:
+Meaning:
+Plural:
+Past Form (if verb):
+Example Sentence:
+Translation:
+Related Words:
+Synonyms:
+Antonyms:
+Notes:
+
+8. Digital Features
+Keyboard Layout
+Font Name
+File Extension
+Text Encoding
+Emoji Style
+Programming Compatibility
+Voice Recognition Rules
+OCR Rules
+Handwriting Recognition
+
+7. Vocabulary Categories
+
+Plan how you'll build your dictionary:
+
+Nature
+Animals
+Plants
+Body Parts
+Family
+Food
+Weather
+Colors
+Shapes
+Numbers
+Time
+Emotions
+School
+Science
+Technology
+Space
+Computers
+Programming
+Transport
+Buildings
+Jobs
+Clothing
+Verbs
+Adjectives
+Adverbs
+Prepositions
+Conjunctions
+Interjections
+?? Dictionary will be in physical form
+
+10. Language Rules
+Spelling Rules
+Capitalization Rules
+Hyphen Rules
+Abbreviations
+Acronyms
+Loan Words
+Slang
+Honorifics
+Idioms
+Proverbs
+Formal Style
+Casual Style
