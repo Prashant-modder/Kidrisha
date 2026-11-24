@@ -8,8 +8,8 @@ See [Gender Endings](../06-adjectives-adverbs.md#gender-endings).
 
 ## Question Pronoun
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |

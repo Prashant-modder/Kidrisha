@@ -19,8 +19,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -34,8 +34,8 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -47,40 +47,42 @@
 | Allative |  |  |  |
 | Ablative |  |  |  |
 
-### Clusivity Split — Inclusive
+### Clusivity Split
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Inclusive
 
-### Clusivity Split — Exclusive
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Exclusive
+
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
 ### Logophoric
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -111,8 +113,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -126,8 +128,8 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -139,40 +141,42 @@
 | Allative |  |  |  |
 | Ablative |  |  |  |
 
-### Clusivity Split — Inclusive
+### Clusivity Split
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Inclusive
 
-### Clusivity Split — Exclusive
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Exclusive
+
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
 ### Logophoric
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -201,8 +205,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -214,8 +218,8 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -225,36 +229,38 @@
 | Allative |  |  |  |
 | Ablative |  |  |  |
 
-### Clusivity Split — Inclusive
+### Clusivity Split
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Inclusive
 
-### Clusivity Split — Exclusive
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Exclusive
+
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
 ### Logophoric
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -283,8 +289,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -298,8 +304,8 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -311,40 +317,42 @@
 | Allative |  |  |  |
 | Ablative |  |  |  |
 
-### Clusivity Split — Inclusive
+### Clusivity Split
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Inclusive
 
-### Clusivity Split — Exclusive
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Exclusive
+
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
 ### Logophoric
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -376,8 +384,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -392,8 +400,8 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -406,42 +414,44 @@
 | Ablative |  |  |  |
 | Elative |  |  |  |
 
-### Clusivity Split — Inclusive
+### Clusivity Split
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
-| Elative |  |  |
+#### Inclusive
 
-### Clusivity Split — Exclusive
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
+| Elative | <span class="gap"></span> |  |  |
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
-| Elative |  |  |
+#### Exclusive
+
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
+| Elative | <span class="gap"></span> |  |  |
 
 ### Logophoric
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -473,8 +483,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -488,8 +498,8 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -501,40 +511,42 @@
 | Allative |  |  |  |
 | Ablative |  |  |  |
 
-### Clusivity Split — Inclusive
+### Clusivity Split
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Inclusive
 
-### Clusivity Split — Exclusive
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
-| Case ↓ / Number → | Dual/Trial | Plural |
-|---|---|---|
-| Nominative |  |  |
-| Accusative |  |  |
-| Genitive |  |  |
-| Instrumental |  |  |
-| Dative |  |  |
-| Comitative |  |  |
-| Abessive |  |  |
-| Locative |  |  |
-| Allative |  |  |
-| Ablative |  |  |
+#### Exclusive
+
+| Case ↓ / Number → | <span class="gap"></span> | Dual / Trial | Plural |
+| --- | --- | --- | --- |
+| Nominative | <span class="gap"></span> |  |  |
+| Accusative | <span class="gap"></span> |  |  |
+| Genitive | <span class="gap"></span> |  |  |
+| Instrumental | <span class="gap"></span> |  |  |
+| Dative | <span class="gap"></span> |  |  |
+| Comitative | <span class="gap"></span> |  |  |
+| Abessive | <span class="gap"></span> |  |  |
+| Locative | <span class="gap"></span> |  |  |
+| Allative | <span class="gap"></span> |  |  |
+| Ablative | <span class="gap"></span> |  |  |
 
 ### Logophoric
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Accusative |  |  |  |
 | Genitive |  |  |  |
@@ -559,8 +571,8 @@
 
 ### Second Person
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Genitive |  |  |  |
 | Dative |  |  |  |
@@ -568,10 +580,9 @@
 
 ### Third Person Proximate
 
-| Case ↓ / Number → | Singular | Dual/Trial | Plural |
-|---|---|---|---|
+| Case ↓ / Number → | Singular | Dual / Trial | Plural |
+| --- | --- | --- | --- |
 | Nominative |  |  |  |
 | Genitive |  |  |  |
 | Dative |  |  |  |
 | Comitative |  |  |  |
-

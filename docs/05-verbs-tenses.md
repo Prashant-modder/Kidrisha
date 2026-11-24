@@ -25,7 +25,7 @@ Remote past. Used for history, folklore, and myths. Actions you did not see happ
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Imperfect Past
@@ -35,7 +35,7 @@ Recent past, or actions that happened today/yesterday that you personally witnes
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Aorist Past
@@ -45,7 +45,7 @@ General or immediate past, ignoring when it happened.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Present
@@ -55,7 +55,7 @@ Happening right this second.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Future
@@ -65,7 +65,7 @@ Normal future for things happening soon or generally.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Remote Future
@@ -75,7 +75,7 @@ Far-off future. Specifically used for things that will not happen today, but tom
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ## Mood / Interjections
@@ -87,7 +87,7 @@ Plain statements of fact or everyday reality.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Imperative
@@ -97,7 +97,7 @@ Direct orders, requests, or strong advice.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Optative/Potential
@@ -107,7 +107,7 @@ Wishes, permissions, or things you should/ought to do.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ### Conditional
@@ -117,7 +117,7 @@ Hypothetical "If / Then" situations.
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ## Negatives
@@ -127,7 +127,7 @@ Add a simple suffix at the end of these verb-tense endings:
 | Number ↓ / Person → | First Person | Second Person | Third Person Proximate | Inclusive | Exclusive | Logophoric Person |
 |---|---|---|---|---|---|---|
 | Singular | | | | | | |
-| Dual/Trial | | | | | | |
+| Dual / Trial | | | | | | |
 | Plural | | | | | | |
 
 ## Adverb

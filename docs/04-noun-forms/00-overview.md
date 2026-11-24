@@ -112,5 +112,5 @@ Gods, cosmic forces, celestial bodies, and magical or religious entities that ex
 | Number | Meaning | Example |
 |---|---|---|
 | Singular | Exactly one (1) noun/pronoun | "[One] Boy" |
-| Dual/Trial | Exactly two (2) or three (3) | "[Two/Three] Boy" |
+| Dual / Trial | Exactly two (2) or three (3) | "[Two/Three] Boy" |
 | Plural | Four or more (4+) | "[Four+] Boy" |
