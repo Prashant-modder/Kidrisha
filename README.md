@@ -17,7 +17,9 @@ Index of project documents.
 8. [Digital Features](docs/08-digital-features.md)
 9. [Dictionary Format](docs/09-dictionary-format.md)
 10. [Language Rules](docs/10-language-rules.md)
-11. [Word Forms](docs/11-word-forms.md) *(pending)*
+11. [Word Forms](docs/11-word-forms.md)
+12. [Phonology](docs/12-phonology.md)
+13. [Grammer](docs/13-grammer.md)
 
 ## Styles
 
