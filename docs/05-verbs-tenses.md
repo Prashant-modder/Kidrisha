@@ -1,4 +1,4 @@
-# Kidrisha'Chandra' — Verbs & Tenses
+# Kidrisha — Verbs & Tenses
 
 How will a verb get its distinctive form?
 

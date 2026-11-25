@@ -1,4 +1,4 @@
-# Kidrisha'Chandra' — Core Rules
+# Kidrisha — Core Rules
 
 - Not a tonal language.
 - Two versions of the language: **Informal** and **Formal**.

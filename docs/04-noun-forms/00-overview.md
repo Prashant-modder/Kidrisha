@@ -1,4 +1,4 @@
-# Kidrisha'Chandra' — Noun Forms
+# Kidrisha — Noun Forms
 
 How will a noun/pronoun get its inflections?
 

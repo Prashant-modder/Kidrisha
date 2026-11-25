@@ -1,4 +1,4 @@
-# Kidrisha'Chandra'
+# Kidrisha
 
 Index of project documents.
 

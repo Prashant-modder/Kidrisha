@@ -1,4 +1,4 @@
-# Kidrisha'Chandra' — Numbers
+# Kidrisha — Numbers
 
 Base 16. Symbols: `0`–`9`, then `A`–`F` for 10–15. 16 is the first two-symbol number.
 

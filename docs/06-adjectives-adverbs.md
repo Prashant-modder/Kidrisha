@@ -1,4 +1,4 @@
-# Kidrisha'Chandra' — Adjectives & Adverbs
+# Kidrisha — Adjectives & Adverbs
 
 ## List of Adjectives
 

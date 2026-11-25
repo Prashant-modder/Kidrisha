@@ -1,10 +1,10 @@
-# Kidrisha'Chandra' — Language Overview
+# Kidrisha — Language Overview
 
 ## 1. Identity
 
 | Field | Value |
 |---|---|
-| Conlang Name | Kidrisha: Chandra |
+| Conlang Name | Kidrisha |
 | Short Name / ISO Code | `QDC` |
 | Creator | Me and myself |
 | Writing Direction | Left → Right |

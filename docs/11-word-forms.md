@@ -1,3 +1,3 @@
-# Kidrisha'Chandra' — Word Forms
+# Kidrisha — Word Forms
 
 *Content pending — `Word Forms.docx` was empty when uploaded.*
