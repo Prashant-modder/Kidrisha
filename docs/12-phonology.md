@@ -42,20 +42,6 @@ Five families, each with three forms: short, long (macron), lax (dot below).
 | ō | /oː/ | kō | the same sound held long |
 | ọ | /ɔ/ | kọ | "aw" in *thought* |
 
-- Plain **a** is open /a/. The lax **ạ** is the schwa "uh".
-- There are **no diphthong glyphs**. *ai* and *au* are written a + i and a + u, and are read as two separate vowels.
-- The syllabic r and l are no longer vowels. They live in the semi-vowels.
-
-**Colour key**
-
-| Type | Colour |
-|---|---|
-| Long | <span class="tag-red">RED</span> |
-| Short | <span class="tag-blue">BLUE</span> |
-| Lax | <span class="todo">to be chosen</span> |
-
-The old *Diphthongs: GREEN* row is removed.
-
 ### Glides (5)
 
 One quick slide per vowel family, marked with a dot above. Each is the vowel itself shortened and slid into the next sound.
