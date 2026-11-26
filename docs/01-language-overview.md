@@ -18,9 +18,8 @@
 |---|---|
 | Script Name | Chandra |
 | Script Type | Abugida |
-| Total Phonetic Letters | 78 |
+| Total Phonetic Letters | 73 |
 | Vowels | 15 |
-| Glides | 5 |
 | Modifiers | 9 |
 | Carrier | 1 |
 | Semi-Vowels | 13 |

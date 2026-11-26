@@ -7,16 +7,15 @@
 | Group | Count |
 |---|---|
 | Vowels | 15 |
-| Glides | 5 |
 | Modifiers | 9 |
 | Carrier | 1 |
 | Semi-vowels | 13 |
 | Consonants | 35 |
-| **Total** | **78** |
+| **Total** | **73** |
 
 *No target count is fixed. This is simply what has been decided so far.*
 
-*"With k" columns show each letter as a syllable on the consonant k. "Sounds like" gives the closest familiar word; where none exists, it says so.*
+*"With k" and "With a" columns show each letter as a syllable. "Sounds like" gives the closest familiar word; where none exists, it says so.*
 
 ---
 
@@ -42,20 +41,20 @@ Five families, each with three forms: short, long (macron), lax (dot below).
 | ō | /oː/ | kō | the same sound held long |
 | ọ | /ɔ/ | kọ | "aw" in *thought* |
 
-### Glides (5)
+- Plain **a** is open /a/. The lax **ạ** is the schwa "uh".
+- **Lax vowels** (ạ ị ụ ẹ ọ) are non-continuing short vowels: abrupt and cut off, like the short clipped "ka" in *kat* without the t. They cannot be held or stretched, and each also has its own vowel quality.
+- There are **no diphthong glyphs**. *ai* and *au* are written a + i and a + u, and are read as two separate vowels.
+- The syllabic r and l are no longer vowels. They live in the semi-vowels.
 
-One quick slide per vowel family, marked with a dot above. Each is the vowel itself shortened and slid into the next sound.
+**Colour key**
 
-| Letter | With k | Sounds like |
-|---|---|---|
-| ȧ | kȧ | a very quick "ah" slide; no common-language example |
-| i with two stacked dots above (placeholder: i̇̇) | k + glide | the quick "i" before "e" in Spanish *hielo* |
-| u̇ | ku̇ | the quick "u" before "o" in Spanish *cuota* |
-| ė | kė | a very quick "eh" slide; no common-language example |
-| ȯ | kȯ | a very quick "oh" slide; no common-language example |
+| Type | Colour |
+|---|---|
+| Long | <span class="tag-red">RED</span> |
+| Short | <span class="tag-blue">BLUE</span> |
+| Lax | <span class="todo">to be chosen</span> |
 
-- The i-glide has two stacked dots because i already has a dot above. The text above is only a stand-in; the real glyph is drawn in the Chandra font.
-- The i-glide is the vowel "ee" shortened. It is **not** the consonant y.
+The old *Diphthongs: GREEN* row is removed.
 
 ### Carrier (1)
 
@@ -72,24 +71,24 @@ Marks that attach to a vowel (or to the carrier ʼ). Group name to be changed la
 
 ### Nasals (6)
 
-| Mark | With ka | Sounds like |
-|---|---|---|
-| m̐ | kam̐ | candrabindu: nasalizes the vowel itself (French *bon*) |
-| m | kam | lip nasal, "m" in *mother* |
-| n | kan | tongue-tip nasal, "n" in *no* |
-| ṇ | kaṇ | retroflex nasal, tongue curled back (Hindi *ghaṇṭā*) |
-| ñ | kañ | palatal nasal, "ny" in *canyon* (Spanish *niño*) |
-| ŋ | kaŋ | back nasal, "ng" in *sing* |
+| Mark | IPA | With ka | Sounds like |
+|---|---|---|---|
+| m̐ | nasalized vowel (◌̃) | kam̐ | candrabindu: nasalizes the vowel itself (French *bon*) |
+| m | /m/ | kam | lip nasal, "m" in *mother* |
+| n | /n/ | kan | tongue-tip nasal, "n" in *no* |
+| ṇ | /ɳ/ | kaṇ | retroflex nasal, tongue curled back (Hindi *ghaṇṭā*) |
+| ñ | /ɲ/ | kañ | palatal nasal, "ny" in *canyon* (Spanish *niño*) |
+| ŋ | /ŋ/ | kaŋ | back nasal, "ng" in *sing* |
 
-The back nasal is written ŋ instead of ṅ to avoid the dot-above glide marks. The anusvara ṃ was dropped; its "ng" sound is covered by ŋ.
+The back nasal is written ŋ instead of ṅ to avoid clashing with the dot-above marks. The anusvara ṃ was dropped; its "ng" sound is covered by ŋ.
 
 ### Breaths (3)
 
-| Mark | With ka | Sounds like |
-|---|---|---|
-| ḥ | kaḥ | visarga: soft "h" echo after the vowel, "aha" (Sanskrit *duḥkha*) |
-| ɦ | kaɦ | voiced, murmured "h" (Hindi *hai*) |
-| ʔ | kaʔ | glottal stop, the catch in *uh-oh* |
+| Mark | IPA | With ka | Sounds like |
+|---|---|---|---|
+| ḥ | /h/ after a vowel | kaḥ | visarga: soft "h" echo after the vowel, "aha" (Sanskrit *duḥkha*) |
+| ɦ | /ɦ/ | kaɦ | voiced, murmured "h" (Hindi *hai*) |
+| ʔ | /ʔ/ | kaʔ | glottal stop, the catch in *uh-oh* |
 
 The jihvamuliya and upadhmaniya were removed, because the consonant grid already has those sounds as x and ɸ.
 
@@ -99,23 +98,22 @@ The jihvamuliya and upadhmaniya were removed, because the consonant grid already
 
 Three stages: plain, hard (dot below) and long. There is no lax stage.
 
-| Letter | Stage | With a | Sounds like |
-|---|---|---|---|
-| y | plain | ya | Hindi consonant y (*yaar*) |
-| w | plain | wa | consonant-like lip sound, "w" in *water* |
-| r | plain | ra | rolled or tapped r (Hindi *raam*) |
-| l | plain | la | plain l (Hindi *lal*) |
-| ř | plain, long-type r | řa | the same r held longer |
-| ỵ | hard | ỵa | a harder, buzzier y (Spanish *ayer* said firmly) |
-| ʋ | hard | ʋa | soft Hindi-style sound between v and w (Hindi *vah*) |
-| ṛ | hard | ṛa | curled-back flap (Hindi *paṛh*) |
-| ḷ | hard | ḷa | curled-back l (Marathi) |
-| ỵ̄ | long hard | ỵ̄a | the long form of ỵ |
-| ʋ̄ | long hard | ʋ̄a | the long form of ʋ |
-| ṝ | long hard | ṝa | the long form of ṛ |
-| ḹ | long hard | ḹa | the long form of ḷ |
+| Letter | Stage | IPA | With a | Sounds like |
+|---|---|---|---|---|
+| y | plain | /j/ | ya | Hindi consonant y (*yaar*) |
+| w | plain | /w/ | wa | consonant-like lip sound, "w" in *water* |
+| r | plain | /r/ | ra | rolled or tapped r (Hindi *raam*) |
+| l | plain | /l/ | la | plain l (Hindi *lal*) |
+| ř | plain, long-type r | /rː/ | řa | the same r held longer |
+| ỵ | hard | /ʝ/ | ỵa | a harder, buzzier y (Spanish *ayer* said firmly) |
+| ʋ | hard | /ʋ/ | ʋa | soft Hindi-style sound between v and w (Hindi *vah*) |
+| ṛ | hard | /ɽ/ | ṛa | curled-back flap (Hindi *paṛh*) |
+| ḷ | hard | /ɭ/ | ḷa | curled-back l (Marathi) |
+| ỵ̄ | long hard | /ʝː/ | ỵ̄a | ỵ held about twice as long (like Italian doubled consonants) |
+| ʋ̄ | long hard | /ʋː/ | ʋ̄a | ʋ held about twice as long |
+| ṝ | long hard | /ɽː/ | ṝa | ṛ held about twice as long |
+| ḹ | long hard | /ɭː/ | ḹa | ḷ held about twice as long |
 
-- **y** is distinct from the i-glide, and **w** is distinct from the u-glide.
 - **ʋ** is the hard partner of w.
 - **ř** (r with two lines above) is the long-type form of plain r.
 
@@ -142,43 +140,43 @@ Standing alone, with no place: **h** (plain breath).
 
 ### Consonant examples
 
-| Letter | With a | Sounds like |
-|---|---|---|
-| k | ka | "k" in *skip* |
-| kʰ | kʰa | Hindi *khaana*, k with a puff of breath |
-| g | ga | "g" in *go* |
-| gʰ | gʰa | Hindi *ghar*, voiced g with breath |
-| c | ca | "ch" in *chair* |
-| cʰ | cʰa | Hindi *chaand*, ch with a puff of breath |
-| j | ja | "j" in *jam* |
-| jʰ | jʰa | Hindi *jhaaḍū*, voiced j with breath |
-| ṭ | ṭa | Hindi *ṭamaaṭar*, tongue curled back |
-| ṭʰ | ṭʰa | Hindi *ṭhaṇḍ*, curled-back ṭ with breath |
-| ḍ | ḍa | Hindi *ḍar*, curled-back voiced d |
-| ḍʰ | ḍʰa | Hindi *ḍhol*, curled-back voiced d with breath |
-| t | ta | Hindi *tab*, tongue against the teeth |
-| tʰ | tʰa | Hindi *thaal*, dental t with breath |
-| d | da | Hindi *dil*, voiced dental d |
-| dʰ | dʰa | Hindi *dhan*, voiced dental d with breath |
-| p | pa | "p" in *spin* |
-| pʰ | pʰa | Hindi *phal*, p with a puff of breath |
-| b | ba | "b" in *bat* |
-| bʰ | bʰa | Hindi *bhai*, voiced b with breath |
-| f | fa | "f" in *fan* |
-| fʰ | fʰa | f with a puff of breath; no common-language example |
-| v | va | "v" in *van* |
-| vʰ | vʰa | v with breath; no common-language example |
-| x | xa | German *Bach* |
-| ɣ | ɣa | Spanish *lago* (the soft g between vowels) |
-| ś | śa | Hindi *śānti*, soft "sh" |
-| ź | źa | soft voiced "zh", like French *je* |
-| ṣ | ṣa | Hindi *ṣaṭ*, "sh" with the tongue curled back |
-| ẓ | ẓa | curled-back voiced "zh"; no common-language example |
-| s | sa | "s" in *sit* |
-| z | za | "z" in *zoo* |
-| ɸ | ɸa | breath through both lips, as when blowing out a candle |
-| β | βa | Spanish *cabo*, the soft "b" between vowels |
-| h | ha | "h" in *hat* |
+| Letter | With a | IPA | Sounds like |
+|---|---|---|---|
+| k | ka | /k/ | "k" in *skip* |
+| kʰ | kʰa | /kʰ/ | Hindi *khaana*, k with a puff of breath |
+| g | ga | /ɡ/ | "g" in *go* |
+| gʰ | gʰa | /ɡʱ/ | Hindi *ghar*, voiced g with breath |
+| c | ca | /tʃ/ | "ch" in *chair* |
+| cʰ | cʰa | /tʃʰ/ | Hindi *chaand*, ch with a puff of breath |
+| j | ja | /dʒ/ | "j" in *jam* |
+| jʰ | jʰa | /dʒʱ/ | Hindi *jhaaḍū*, voiced j with breath |
+| ṭ | ṭa | /ʈ/ | Hindi *ṭamaaṭar*, tongue curled back |
+| ṭʰ | ṭʰa | /ʈʰ/ | Hindi *ṭhaṇḍ*, curled-back ṭ with breath |
+| ḍ | ḍa | /ɖ/ | Hindi *ḍar*, curled-back voiced d |
+| ḍʰ | ḍʰa | /ɖʱ/ | Hindi *ḍhol*, curled-back voiced d with breath |
+| t | ta | /t̪/ | Hindi *tab*, tongue against the teeth |
+| tʰ | tʰa | /t̪ʰ/ | Hindi *thaal*, dental t with breath |
+| d | da | /d̪/ | Hindi *dil*, voiced dental d |
+| dʰ | dʰa | /d̪ʱ/ | Hindi *dhan*, voiced dental d with breath |
+| p | pa | /p/ | "p" in *spin* |
+| pʰ | pʰa | /pʰ/ | Hindi *phal*, p with a puff of breath |
+| b | ba | /b/ | "b" in *bat* |
+| bʰ | bʰa | /bʱ/ | Hindi *bhai*, voiced b with breath |
+| f | fa | /f/ | "f" in *fan* |
+| fʰ | fʰa | /fʰ/ | f with a puff of breath; very rare, no common-language example |
+| v | va | /v/ | "v" in *van* |
+| vʰ | vʰa | /vʱ/ | v with breathy voice; very rare, no common-language example |
+| x | xa | /x/ | German *Bach* |
+| ɣ | ɣa | /ɣ/ | Spanish *lago*, Greek *γάλα* |
+| ś | śa | /ɕ/ | Polish *środa*, soft "sh" |
+| ź | źa | /ʑ/ | Polish *źle*, soft voiced "zh" |
+| ṣ | ṣa | /ʂ/ | Polish *szafa*, "sh" with the tongue curled back |
+| ẓ | ẓa | /ʐ/ | Polish *żaba*, curled-back voiced "zh" |
+| s | sa | /s/ | "s" in *sit* |
+| z | za | /z/ | "z" in *zoo* |
+| ɸ | ɸa | /ɸ/ | Japanese *fuji*, breath through both lips |
+| β | βa | /β/ | Spanish *cabo*, the soft "b" between vowels |
+| h | ha | /h/ | "h" in *hat* |
 
 ---
 
@@ -188,13 +186,15 @@ Standing alone, with no place: **h** (plain breath).
 2. Every consonant carries an inherent open /a/, always pronounced (no dropped vowels).
 3. Aspirates are single glyphs, romanised with a superscript ʰ after the letter.
 4. Diphthongs are written as two vowels and read as two vowels.
-5. Modifiers attach to a vowel. At the start of a word they sit on the silent carrier ʼ.
-6. Romanisation marks: macron = long, dot below = lax (vowels), hard (semi-vowels) or retroflex (consonants), dot above = glide, superscript ʰ = aspirated.
-7. Romanisation for the special letters: ʔ glottal stop, ʼ silent carrier.
+5. Lax vowels are non-continuing short vowels: abrupt, cannot be held.
+6. Modifiers attach to a vowel. At the start of a word they sit on the silent carrier ʼ.
+7. Romanisation marks: macron = long, dot below = lax (vowels), hard (semi-vowels) or retroflex (consonants), superscript ʰ = aspirated.
+8. Romanisation for the special letters: ʔ glottal stop, ʼ silent carrier.
 
 ---
 
 ## Status
 
 - The number words keep their original spelling.
-- The [language overview](01-language-overview.md) reflects the current phonology inventory.
+- **To check:** ḥ and the consonant h are both /h/. ḥ only follows a vowel, with a faint echo of that vowel, but the one-sound rule may need a decision here.
+- The overview file still shows 60 letters (13 / 40 / 7) and will be updated next.
