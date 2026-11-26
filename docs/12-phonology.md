@@ -86,7 +86,7 @@ The back nasal is written ŋ instead of ṅ to avoid clashing with the dot-above
 
 | Mark | IPA | With ka | Sounds like |
 |---|---|---|---|
-| ḥ | /h/ after a vowel | kaḥ | visarga: soft "h" echo after the vowel, "aha" (Sanskrit *duḥkha*) |
+| ḥ | voiceless echo of the vowel, [V̥] | kaḥ | visarga: a soft whispered echo of the vowel before it, "aha" (Sanskrit *duḥkha*); not the consonant h |
 | ɦ | /ɦ/ | kaɦ | voiced, murmured "h" (Hindi *hai*) |
 | ʔ | /ʔ/ | kaʔ | glottal stop, the catch in *uh-oh* |
 
@@ -190,11 +190,3 @@ Standing alone, with no place: **h** (plain breath).
 6. Modifiers attach to a vowel. At the start of a word they sit on the silent carrier ʼ.
 7. Romanisation marks: macron = long, dot below = lax (vowels), hard (semi-vowels) or retroflex (consonants), superscript ʰ = aspirated.
 8. Romanisation for the special letters: ʔ glottal stop, ʼ silent carrier.
-
----
-
-## Status
-
-- The number words keep their original spelling.
-- **To check:** ḥ and the consonant h are both /h/. ḥ only follows a vowel, with a faint echo of that vowel, but the one-sound rule may need a decision here.
-- The overview file still shows 60 letters (13 / 40 / 7) and will be updated next.
